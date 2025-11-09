@@ -5,7 +5,7 @@
     "ProjectType": "Process",
     "Name": "vendor_Details_Extraction",
     "Description": "Blank Process",
-    "LastModifiedTime": "2025-11-09T08:10:34.2820836Z",
+    "LastModifiedTime": "2025-11-09T09:30:23.4288788Z",
     "CreationTime": "2025-09-01T17:08:22.3739648Z",
     "UserId": "8c18d269-e191-4f1e-84ef-4fa811d2ec3f",
     "RootFolder": {
@@ -315,6 +315,11 @@
               "IsMain": false
             },
             {
+              "Id": "81f2c66e7bfb4c6a657f3676da5860b4.png",
+              "Name": "81f2c66e7bfb4c6a657f3676da5860b4.png",
+              "IsMain": false
+            },
+            {
               "Id": "bcf32beba89adfc20844c80e2dbc163a.png",
               "Name": "bcf32beba89adfc20844c80e2dbc163a.png",
               "IsMain": false
@@ -395,6 +400,11 @@
           "IsMain": false
         },
         {
+          "Id": "f8ae81be-a1f9-4fb2-9dd6-995c71e0716b",
+          "Name": "README.md",
+          "IsMain": false
+        },
+        {
           "Id": "5b9f4a5d-7606-4fa9-92ec-56745668c260",
           "Name": "project.json",
           "IsMain": false
@@ -435,6 +445,7 @@
     ".objects/bYX1/rV8q/oyGB/.type": "blYTfiHTIiouMTX8NFgob8P7ay4sZ56a4o2yaP6YKvc=",
     ".settings/Release/settings-afad0842.json": "G9QXfUpFG7Ft2Hv2iaAAdX0OHthnWBvWoCiC3J0\u002BIzg=",
     ".settings/Release/settings-5190454b.json": "6ud6qyOj3C93hV1irOUAiHHtFhixNW\u002BVGG8BuThc7Xg=",
+    ".screenshots/81f2c66e7bfb4c6a657f3676da5860b4.png": "pJDyOSWnwQGZ7yw814biu6HFZasTal73fhfGieLNYGI=",
     ".settings/Release/settings-590bb27b.json": "ohy2LEZ0wBLLAHCxB/0jU541YjbZSpm4L9AoRAo9pBY=",
     ".settings/Debug/settings-9e9290da.json": "mtN6BDTKSeG/uE0bdl8I0Yuz54dUk3GWwE40WfDyA/E=",
     ".screenshots/8a6ddb05459ccd52696ccccf4e74a641.png": "b74dsFj8\u002BUW4a42qEiVY8hema9p4SOLnCZ4csyZHws0=",
@@ -447,6 +458,7 @@
     ".settings/Debug/settings-51f48ab4.json": "\u002BKRs/PUEZO0CvP9dH74waWMzT/6Msz0hxTt7H/9DGSg=",
     "project.json": "epVj1DAP2GPg46\u002BJ9Omu4mtBEBcQ2mbd9z5WIp/z\u002BA0=",
     ".project/design.json": "D1f9H44ht\u002Bs2pCbXw5MEuq5cz60YKu8d7bi05HsrbK0=",
+    "README.md": "f40ergXvFiTY3aGQCsq\u002BNBked/jc4VeKXxiNlH29x\u002B4=",
     ".objects/bYX1/.data/ObjectSelectionName/.content": "6PsJOMs84zB7DMaNgFFpsn9XFC4zxJ\u002BOSuShvRiKf50=",
     ".settings/Design/settings-590bb27b.json": "47l/VJ6CvriLOGo10/wazeK2w7MFZ\u002Bo5IpEcgHgebco=",
     ".settings/Release/settings-1a5b880a.json": "/SMISP73PTBaR86RcZnRzA07S94hLi0Vnfo\u002Bscs5srU=",
@@ -459,7 +471,7 @@
     ".settings/Release/settings-9e9290da.json": "mtN6BDTKSeG/uE0bdl8I0Yuz54dUk3GWwE40WfDyA/E=",
     ".settings/Debug/settings-a1b2dac1.json": "8by0sDRMMb8zJLINEUrcTuR0AcpWK3i/fSuglu/ejPk=",
     ".objects/bYX1/rV8q/.metadata": "lsnPHEn0aGXzDfY4KwinDJRFTD4Bd2Ha5s60lEXy8zw=",
-    "Main.xaml": "A6ECHh6eMAnFyHD9J1MvXqL0g8waGL\u002Bt8fAPaN5mkJo=",
+    "Main.xaml": "PA/0bHS3oYTqgk8bpM72W70s9m\u002BDvurFw5voumkbr0w=",
     ".screenshots/dbc7e001013e2a78aa96c7025eb2c789.png": "oIDRsDfDZ8qOfXmy61DxDpDFDg7RXnfZTOnqg/DSZsk=",
     ".objects/bYX1/rV8q/oyGB/.metadata": "kJtprHtpfcA/p9wSQP/iu7BUJG9/kAeeeJ1eRQnrtq8=",
     ".project/PackageBindingsMetadata.json": "nRTORkCkXNUi05f/nMnwgcmafbRIJc7/9t5VumnpWC4=",
@@ -511,6 +523,7 @@
     ".objects/bYX1/rV8q/oyGB/.type",
     ".settings/Release/settings-afad0842.json",
     ".settings/Release/settings-5190454b.json",
+    ".screenshots/81f2c66e7bfb4c6a657f3676da5860b4.png",
     ".settings/Release/settings-590bb27b.json",
     ".settings/Debug/settings-9e9290da.json",
     ".screenshots/8a6ddb05459ccd52696ccccf4e74a641.png",
@@ -523,6 +536,7 @@
     ".settings/Debug/settings-51f48ab4.json",
     "project.json",
     ".project/design.json",
+    "README.md",
     ".objects/bYX1/.data/ObjectSelectionName/.content",
     ".settings/Design/settings-590bb27b.json",
     ".settings/Release/settings-1a5b880a.json",
